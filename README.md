@@ -1,7 +1,9 @@
-Currently studying physics at UAB. 
+Physics Graduate, UAB. 
+
+Currently studying the Master's Modelling for Science and Engineering at UAB 
 
 *Skills:*
-- Basic level python
-- Learning python
+- Medium level python
+- Basic level Machine Learning
 
 Willing to start any project and to learn about any programming language.
