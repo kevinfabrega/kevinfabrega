@@ -1,6 +1,6 @@
 Physics Graduate, UAB. 
 
-Currently studying the Master's Degree Modelling for Science and Engineering at UAB 
+Currently studying the Master's Degree in Modelling for Science and Engineering at UAB 
 
 *Programming skills:*
 - Medium-high level python
